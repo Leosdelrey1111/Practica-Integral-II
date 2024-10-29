@@ -1,6 +1,7 @@
 # PRACTICA INTERAL II
 ## PARTICIPANTES
 Brayan Leonel Hernandez Diaz
+
 Celeste Estefania Ramirez Matehuala
 
 ## Grupo
