@@ -2,16 +2,14 @@
 ## PARTICIPANTES
 Brayan Leonel Hernandez Diaz
 
-Celeste Estefania Ramirez Matehuala
-
 ## Grupo
 GDS0642
 
 ## EJERCICIO 7
 |EVIDENCIA DE EJERCICIO|
 |--|
-|![WhatsApp Image 2024-10-29 at 14 25 31_db7e09a9](https://github.com/user-attachments/assets/092e472e-d02f-4ceb-b32c-03548f1a3941)
-|
+|![WhatsApp Image 2024-10-29 at 18 44 57_06e6119f](https://github.com/user-attachments/assets/c7ebd645-a4bf-40f5-8d01-07e05d6a55cf)
+
 ## Videos
 |video|
 |--|
