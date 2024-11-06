@@ -15,6 +15,9 @@ GDS0642
 |--|
 |https://drive.google.com/file/d/1Vu8bf0ettxn-_aVBMwRDhSDkF0hvb6RI/view?usp=sharing|
 
+|Muestra de proyecto Duo|
+|--|
+|https://drive.google.com/file/d/1mXgQDoEWrCuSRgYC35pyoObFMUFYNtUY/view?usp=drivesdk|
 
 ## EVIDENCIAS DE EXAMNENES PHYTON
 |PHYTON EXAMS|
