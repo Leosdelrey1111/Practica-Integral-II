@@ -15,6 +15,7 @@ GDS0642
 |--|
 |https://drive.google.com/file/d/1Vu8bf0ettxn-_aVBMwRDhSDkF0hvb6RI/view?usp=sharing|
 
+## Proyecto integral II
 |Muestra de proyecto Duo|
 |--|
 |https://drive.google.com/file/d/1mXgQDoEWrCuSRgYC35pyoObFMUFYNtUY/view?usp=drivesdk|
