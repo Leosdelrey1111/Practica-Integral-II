@@ -28,3 +28,7 @@ GDS0642
 |VIDEOS DE UNIDAD EJERCICIOS EN CLASE|
 |--|
 |https://drive.google.com/drive/folders/1eq-nXnwKCnDeZv7tEV5LluSis-8NdfTb?usp=sharing|
+
+|ARCHIVOS DE TRABAJOS EN CLASE|
+|--|
+|https://drive.google.com/drive/folders/1I79vGGxszQUPPlwYC7t47isj2Z9axhng?usp=sharing|
