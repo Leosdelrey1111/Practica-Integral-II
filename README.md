@@ -14,8 +14,8 @@ GDS0642
 |--|
 |https://drive.google.com/file/d/1Vu8bf0ettxn-_aVBMwRDhSDkF0hvb6RI/view?usp=sharing|
 
-## Descripcion de compañero
-|Descripcion de mi compañero en la practica|
+## COEVALUACION
+|Celeste Estefania Ramirez Matehuala 1223100435|
 |--|
 |Mi compañera tuvo un buen desempeño al estar apoyando en solucionar errores en el codigo y dando ideas de como podriamos optimizarlo y/o mejorarlo, asi como tambien tuvo un gran aporte en hacer las conexiones en la esp32, aunque tambien estuvo un poco dificil trabajar con ella, debido a que hubo mucha descordancia en las ideas, queria algunas ideas o implementar algunos metodos que no iban con la practica, lo que podria mejorar seria su paciencia, el repeto de ideas tambien la pasiencia y mejorar un poco mas el trabajo en equipo|
 
